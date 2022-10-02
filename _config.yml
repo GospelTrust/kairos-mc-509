@@ -64,3 +64,6 @@ defaults:
     values:
       layout: "segment"
 
+exclude:
+  - CNAME
+  - runme.sh
