@@ -1,0 +1,120 @@
+week-00:
+  title: 'Section 1'
+  desc: 'Understanding Course Requirements'
+  segment: ['section', 1]
+  theme: c1
+  items:
+    - info-01
+    - info-02
+    - info-03
+    - info-04
+
+week-01:
+  title: 'Section 2'
+  desc: 'Understanding Basics of Identity and Sanctification'
+  segment: ['section', 2]
+  begin: 2022-09-04
+  end: 2022-09-10
+  theme: c3
+  items:
+    - lecture-01
+    - quiz-01
+    - quiz-02
+    - quiz-03
+    - quiz-04
+
+week-02:
+  title: 'Section 3'
+  desc: 'Understanding Repentance'
+  segment: ['section', 3]
+  begin: 2022-09-11
+  end: 2022-09-17
+  theme: c5
+  items:
+    - lecture-02
+    - quiz-05
+    - quiz-06
+    - quiz-07
+    - quiz-08
+
+week-03:
+  title: 'Section 4'
+  desc: 'Understanding Forgiveness'
+  segment: ['section', 4]
+  begin: 2022-09-18
+  end: 2022-09-24
+  theme: c7
+  items:
+    - lecture-03
+    - quiz-09
+    - quiz-10
+    - quiz-11
+
+week-04:
+  title: 'Section 5'
+  desc: 'Understanding Healing Wounds'
+  segment: ['section', 5]
+  begin: 2022-09-25
+  end: 2022-10-01
+  theme: c9
+  items:
+    - lecture-04
+    - quiz-12
+    - quiz-13
+    - quiz-14
+
+week-05:
+  title: 'Section 6'
+  desc: 'Understand the Basics of Deliverance'
+  segment: ['section', 6]
+  begin: 2022-10-02
+  end: 2022-10-08
+  theme: c2
+  items:
+    - lecture-05
+    - quiz-15
+    - quiz-16
+    - quiz-17
+    - quiz-18
+
+week-06:
+  title: 'Section 7'
+  desc: 'Understand Who You Are in Christ'
+  segment: ['section', 7]
+  begin: 2022-10-09
+  end: 2022-10-15
+  theme: c4
+  items:
+    - lecture-06
+    - quiz-19
+    - quiz-20
+    - quiz-21
+    - quiz-22
+
+week-07:
+  title: 'Section 8'
+  desc: 'Understanding How to Minister to Someone With Trauma'
+  segment: ['section', 8]
+  begin: 2022-10-16
+  end: 2022-10-22
+  theme: c6
+  items:
+    - lecture-07
+    - quiz-23
+    - quiz-24
+    - quiz-25
+    - quiz-26
+
+week-08:
+  title: 'Section 9'
+  desc: 'Understand How to Minister Freedom'
+  segment: ['section', 9]
+  begin: 2022-10-23
+  end: 2022-10-29
+  theme: c8
+  items:
+    - lecture-08
+    - quiz-27
+    - quiz-28
+    - quiz-29
+

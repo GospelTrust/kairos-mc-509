@@ -1,0 +1,424 @@
+info-01:
+  segment: 'week-00'
+  title: 'Class Overview'
+  icon: info
+  header: 'Syllabus'
+  type: 'Information'
+  sequence: 1
+  url: 'info-01'
+
+info-02:
+  segment: 'week-00'
+  title: 'Instructions for Course Work'
+  icon: abc
+  header: 'Work'
+  type: 'Information'
+  sequence: 2
+  url: 'info-02'
+
+info-03:
+  segment: 'week-00'
+  title: 'Quizes & Tests'
+  icon: scoreboard
+  header: 'Grading'
+  type: 'Information'
+  sequence: 3
+  url: 'info-03'
+
+info-04:
+  segment: 'week-00'
+  title: 'Zoom Resources'
+  icon: videocam
+  header: 'Online'
+  type: 'Information'
+  sequence: 4
+  url: 'info-04'
+  videos: [ "WjtgyBkgKkM" ]
+
+lecture-01:
+  segment: 'week-01'
+  title: 'Understanding Basics of Identity and Sanctification'
+  icon: web_stories
+  header: 'Lecture 1'
+  sequence: 1
+  url: 'lecture-01'
+  videos: [ "pkz_Mt0fdxI" ]
+
+quiz-01:
+  segment: 'week-01'
+  title: 'Sanctification & Transformation'
+  icon: quiz
+  header: 'Quiz 1'
+  type: 'Quiz'
+  sequence: 1
+  url: 'quiz-01'
+  due: 2022-09-06
+  points: 100
+
+quiz-02:
+  segment: 'week-01'
+  title: 'Jesus Transforming Power'
+  icon: quiz
+  header: 'Quiz 2'
+  type: 'Quiz'
+  sequence: 2
+  url: 'quiz-02'
+  due: 2022-09-06
+  points: 100
+
+quiz-03:
+  segment: 'week-01'
+  title: 'Identity & Inner Healing'
+  icon: quiz
+  header: 'Quiz 3'
+  type: 'Quiz'
+  sequence: 3
+  url: 'quiz-03'
+  due: 2022-09-10
+  points: 100
+
+quiz-04:
+  segment: 'week-01'
+  title: 'Writing A Love Letter'
+  icon: quiz
+  header: 'Quiz 4'
+  type: 'Quiz'
+  sequence: 4
+  url: 'quiz-04'
+  due: 2022-09-10
+  points: 100
+
+lecture-02:
+  segment: 'week-02'
+  title: 'Understanding Repentance'
+  icon: web_stories
+  header: 'Lecture 2'
+  sequence: 2
+  url: 'lecture-02'
+  videos: [ "y_MCwlY6zzg" ]
+
+quiz-05:
+  segment: 'week-02'
+  title: 'Repentance'
+  icon: quiz
+  header: 'Quiz 5'
+  type: 'Quiz'
+  sequence: 5
+  url: 'quiz-05'
+  due: 2022-09-13
+  points: 100
+
+quiz-06:
+  segment: 'week-02'
+  title: 'God, How Do You See Me?'
+  icon: quiz
+  header: 'Quiz 6'
+  type: 'Quiz'
+  sequence: 6
+  url: 'quiz-06'
+  due: 2022-09-13
+  points: 100
+
+quiz-07:
+  segment: 'week-02'
+  title: 'The Christian Pauper Mentality'
+  icon: quiz
+  header: 'Quiz 7'
+  type: 'Quiz'
+  sequence: 7
+  url: 'quiz-07'
+  due: 2022-09-17
+  points: 100
+
+quiz-08:
+  segment: 'week-02'
+  title: 'Overcoming Family Sin Patterns'
+  icon: quiz
+  header: 'Quiz 8'
+  type: 'Quiz'
+  sequence: 8
+  url: 'quiz-08'
+  due: 2022-09-17
+  points: 100
+
+lecture-03:
+  segment: 'week-03'
+  title: 'Understanding Forgiveness'
+  icon: web_stories
+  header: 'Lecture 3'
+  sequence: 2
+  url: 'lecture-03'
+
+quiz-09:
+  segment: 'week-03'
+  title: 'Lies'
+  icon: quiz
+  header: 'Quiz 9'
+  type: 'Quiz'
+  sequence: 9
+  url: 'quiz-09'
+  due: 2022-09-21
+  points: 100
+
+quiz-10:
+  segment: 'week-03'
+  title: 'Childhood Relationship'
+  icon: quiz
+  header: 'Quiz 10'
+  type: 'Quiz'
+  sequence: 10
+  url: 'quiz-10'
+  due: 2022-09-21
+  points: 100
+
+quiz-11:
+  segment: 'week-03'
+  title: 'Forgiveness'
+  icon: quiz
+  header: 'Quiz 11'
+  type: 'Quiz'
+  sequence: 11
+  url: 'quiz-11'
+  due: 2022-09-24
+  points: 100
+
+lecture-04:
+  segment: 'week-04'
+  title: 'Understanding Healing Wounds'
+  icon: web_stories
+  header: 'Lecture 4'
+  sequence: 4
+  url: 'lecture-04'
+
+quiz-12:
+  segment: 'week-04'
+  title: 'Humility'
+  icon: quiz
+  header: 'Quiz 12'
+  type: 'Quiz'
+  sequence: 12
+  url: 'quiz-12'
+  due: 2022-09-28
+  points: 100
+
+quiz-13:
+  segment: 'week-04'
+  title: 'Misconceptions of the Father'
+  icon: quiz
+  header: 'Quiz 13'
+  type: 'Quiz'
+  sequence: 13
+  url: 'quiz-13'
+  due: 2022-09-28
+  points: 100
+
+quiz-14:
+  segment: 'week-04'
+  title: 'Overcoming Fears'
+  icon: quiz
+  header: 'Quiz 14'
+  type: 'Quiz'
+  sequence: 14
+  url: 'quiz-14'
+  due: 2022-10-01
+  points: 100
+
+lecture-05:
+  segment: 'week-05'
+  title: 'Understand the Basics of Deliverance'
+  icon: web_stories
+  header: 'Lecture 5'
+  sequence: 5
+  url: 'lecture-05'
+
+quiz-15:
+  segment: 'week-05'
+  title: 'Ministering Truth With Compassion'
+  icon: quiz
+  header: 'Quiz 15'
+  type: 'Quiz'
+  sequence: 15
+  url: 'quiz-15'
+  due: 2022-10-05
+  points: 100
+
+quiz-16:
+  segment: 'week-05'
+  title: "The Father's Embrace"
+  icon: quiz
+  header: 'Quiz 16'
+  type: 'Quiz'
+  sequence: 16
+  url: 'quiz-16'
+  due: 2022-10-05
+  points: 100
+
+quiz-17:
+  segment: 'week-05'
+  title: 'Deliverance'
+  icon: quiz
+  header: 'Quiz 17'
+  type: 'Quiz'
+  sequence: 17
+  url: 'quiz-17'
+  due: 2022-10-08
+  points: 100
+
+quiz-18:
+  segment: 'week-05'
+  title: 'Understanding Trauma'
+  icon: quiz
+  header: 'Quiz 18'
+  type: 'Quiz'
+  sequence: 18
+  url: 'quiz-18'
+  due: 2022-10-08
+  points: 100
+
+lecture-06:
+  segment: 'week-06'
+  title: 'Understand Who You Are in Christ'
+  icon: web_stories
+  header: 'Lecture 6'
+  sequence: 6
+  url: 'lecture-06'
+  videos: [ "tlTvg66sGuA", "Tz04ajj6hbI", "8MqDchI8eiU" ]
+
+quiz-19:
+  segment: 'week-06'
+  title: 'Six Types of Fathers'
+  icon: quiz
+  header: 'Quiz 19'
+  type: 'Quiz'
+  sequence: 19
+  url: 'quiz-19'
+  due: 2022-10-12
+  points: 100
+
+quiz-20:
+  segment: 'week-06'
+  title: 'Christ and Our Authority'
+  icon: quiz
+  header: 'Quiz 20'
+  type: 'Quiz'
+  sequence: 20
+  url: 'quiz-20'
+  due: 2022-10-12
+  points: 100
+
+quiz-21:
+  segment: 'week-06'
+  title: 'Prince & Pauper Test'
+  icon: quiz
+  header: 'Quiz 21'
+  type: 'Quiz'
+  sequence: 21
+  url: 'quiz-21'
+  due: 2022-10-15
+  points: 100
+
+quiz-22:
+  segment: 'week-06'
+  title: 'True & Counterfeit Freedom'
+  icon: quiz
+  header: 'Quiz 22'
+  type: 'Quiz'
+  sequence: 22
+  url: 'quiz-22'
+  due: 2022-10-15
+  points: 100
+
+lecture-07:
+  segment: 'week-07'
+  title: 'Understanding How to Minister to Someone With Trauma'
+  icon: web_stories
+  header: 'Lecture 7'
+  sequence: 7
+  url: 'lecture-07'
+
+quiz-23:
+  segment: 'week-07'
+  title: 'Law Versus Grace'
+  icon: quiz
+  header: 'Quiz 23'
+  type: 'Quiz'
+  sequence: 23
+  url: 'quiz-23'
+  due: 2022-10-19
+  points: 100
+
+quiz-24:
+  segment: 'week-07'
+  title: 'Excuses For Sin'
+  icon: quiz
+  header: 'Quiz 24'
+  type: 'Quiz'
+  sequence: 24
+  url: 'quiz-24'
+  due: 2022-10-19
+  points: 100
+
+quiz-25:
+  segment: 'week-07'
+  title: 'Depression'
+  icon: quiz
+  header: 'Quiz 25'
+  type: 'Quiz'
+  sequence: 25
+  url: 'quiz-25'
+  due: 2022-10-22
+  points: 100
+
+quiz-26:
+  segment: 'week-07'
+  title: 'Ministering Freedom'
+  icon: quiz
+  header: 'Quiz 26'
+  type: 'Quiz'
+  sequence: 26
+  url: 'quiz-26'
+  due: 2022-10-22
+  points: 100
+
+lecture-08:
+  segment: 'week-08'
+  title: 'Understand How to Minister Freedom'
+  icon: web_stories
+  header: 'Lecture 8'
+  sequence: 8
+  url: 'lecture-08'
+  videos: [ "_Ksf9YmseUA" ]
+
+quiz-27:
+  segment: 'week-07'
+  title: 'Walking in the Spirit'
+  icon: quiz
+  header: 'Quiz 27'
+  type: 'Quiz'
+  sequence: 27
+  url: 'quiz-27'
+  due: 2022-10-26
+  points: 100
+
+quiz-28:
+  segment: 'week-07'
+  title: "Father's Love Letter"
+  icon: quiz
+  header: 'Quiz 28'
+  type: 'Quiz'
+  sequence: 28
+  url: 'quiz-28'
+  due: 2022-10-26
+  points: 100
+
+quiz-29:
+  segment: 'week-07'
+  title: 'Ministering to Someone With Depression'
+  icon: quiz
+  header: 'Quiz 29'
+  type: 'Quiz'
+  sequence: 29
+  url: 'quiz-29'
+  due: 2022-10-29
+  points: 100
+
