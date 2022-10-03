@@ -55,12 +55,20 @@ All books are available from [amazon.com].
 
 Title | Author | Resource
 :--- | :--- | :---
-Soul Care: 7 Transformational Principles for a Healthy Soul | Dr. Rob Reimer |
-Experiencing Father’s Embrace | Jack Frost |
-The Steps to Freedom in Christ: A Biblical Guide to Help You Resolve Personal and Spiritual Conflicts and Become a Fruitful Disciple of Jesus | Dr. Neil Anderson |
-The Supernatural Ways of Royalty | Kris Vallotton & Bill Johnson |
-Depression, Where is Your Sting | Dr. Robert McBain
-Supernatural Freedom from the Captivity of Trauma | Dr. Mike Hutchings
+Soul Care: 7 Transformational Principles for a Healthy Soul | Dr. Rob Reimer | [SC]
+Experiencing Father’s Embrace | Jack Frost | [EFE]
+The Steps to Freedom in Christ: A Biblical Guide to Help You Resolve Personal and Spiritual Conflicts and Become a Fruitful Disciple of Jesus | Dr. Neil Anderson | [TSFIC]
+The Supernatural Ways of Royalty | Kris Vallotton & Bill Johnson | [TSWOR]
+Depression, Where is Your Sting | Dr. Robert McBain | [DWIYS]
+Supernatural Freedom from the Captivity of Trauma | Dr. Mike Hutchings | [SFFTCOT]
+
+[SC]: https://smile.amazon.com/dp/B0876F7NMN/?coliid=I600RUGW5MGYE&colid=Y747B0H944XX&psc=0
+[EFE]: https://smile.amazon.com/dp/B07L5YTZDV/?coliid=IF3L4DKBAC4YE&colid=Y747B0H944XX&psc=0
+[TSFIC]: https://smile.amazon.com/dp/0764219421/?coliid=I3A8LFCCM9YJL3&colid=Y747B0H944XX&psc=1
+[TSWOR]: https://smile.amazon.com/dp/B01A624G92/?coliid=I2XXHFKNFPC3F6&colid=Y747B0H944XX&psc=0
+[DWIYS]: https://smile.amazon.com/dp/B08Y2B6B7C/?coliid=I166L2X29GUSA0&colid=Y747B0H944XX&psc=0
+[SFFTCOT]: https://smile.amazon.com/dp/B07NWL5Q26/?coliid=I3IV23ME4VRO88&colid=Y747B0H944XX&psc=0
+
 
 ### Required Videos
 
