@@ -2,18 +2,22 @@
 ---
 ## Reading
 
-- The Supernatural Ways of Royalty
+- [The Supernatural Ways of Royalty]
   - Chapter 4: A Royal Flush
   - Chapter 5: Lizards in the Palace
   - Chapter 6: Training for Reigning
   - Chapter 7: Guess Who is Coming to Dinner?
 
-- Experiencing the Father’s Embrace
+- [Experiencing the Father’s Embrace]
   - Chapter 1: My Encounter with Father’s Embrace
   - Chapter 2: You Were Created for Love
 
-- Soul Care
+- [Soul Care]
   - Soul Care Principle 4 – Forgiveness
+
+[Soul Care]: https://read.amazon.com/?asin=B01G4TEB2I
+[The Supernatural Ways of Royalty]: https://read.amazon.com/?asin=B072TPGMCM
+[Experiencing the Father’s Embrace]: https://read.amazon.com/?asin=B0051GN8XO
 
 ## Discussion Question
 

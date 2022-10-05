@@ -62,12 +62,12 @@ The Supernatural Ways of Royalty | Kris Vallotton & Bill Johnson | [TSWOR]
 Depression, Where is Your Sting | Dr. Robert McBain | [DWIYS]
 Supernatural Freedom from the Captivity of Trauma | Dr. Mike Hutchings | [SFFTCOT]
 
-[SC]: https://smile.amazon.com/dp/B0876F7NMN/?coliid=I600RUGW5MGYE&colid=Y747B0H944XX&psc=0
-[EFE]: https://smile.amazon.com/dp/B07L5YTZDV/?coliid=IF3L4DKBAC4YE&colid=Y747B0H944XX&psc=0
-[TSFIC]: https://smile.amazon.com/dp/0764219421/?coliid=I3A8LFCCM9YJL3&colid=Y747B0H944XX&psc=1
-[TSWOR]: https://smile.amazon.com/dp/B01A624G92/?coliid=I2XXHFKNFPC3F6&colid=Y747B0H944XX&psc=0
-[DWIYS]: https://smile.amazon.com/dp/B08Y2B6B7C/?coliid=I166L2X29GUSA0&colid=Y747B0H944XX&psc=0
-[SFFTCOT]: https://smile.amazon.com/dp/B07NWL5Q26/?coliid=I3IV23ME4VRO88&colid=Y747B0H944XX&psc=0
+[SC]: https://smile.amazon.com/dp/B01G4TEB2I
+[EFE]: https://smile.amazon.com/dp/B0051GN8XO
+[TSFIC]: https://smile.amazon.com/dp/B01MYF1WCE
+[TSWOR]: https://smile.amazon.com/dp/B072TPGMCM
+[DWIYS]: https://smile.amazon.com/dp/B08Y2B6B7C
+[SFFTCOT]: https://smile.amazon.com/dp/B07NWL5Q26
 
 
 ### Required Videos

@@ -2,16 +2,18 @@
 ---
 ## Reading
 
-- Soul Care
+- [Soul Care]
   - Soul Care Principle 2 - Repentance
   - Soul Care Principle 3 – Overcoming Family Sin Patterns
 
-- The Supernatural Ways of Royalty
+- [The Supernatural Ways of Royalty]
   - Introduction
   - Chapter 1: The Plight of Pauperhood
   - Chapter 2: Castle Tramps or Palace
   - Chapter 3: Dungeons and Dragons
 
+[Soul Care]: https://read.amazon.com/?asin=B01G4TEB2I
+[The Supernatural Ways of Royalty]: https://read.amazon.com/?asin=I2XXHFKNFPC3F6
 
 ## Discussion Question
 

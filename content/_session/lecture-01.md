@@ -2,10 +2,12 @@
 ---
 ## Reading
 
-- Soul Care
+- [Soul Care]
   - Introduction
   - Gateways to life change
   - Soul Care Principle 1 &mdash; Identity
+
+[Soul Care]: https://read.amazon.com/?asin=B01G4TEB2I
 
 ## Discussion Question
 
