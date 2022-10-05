@@ -19,7 +19,10 @@
 
 What evidence do you see of performance orientation exhibited in the first circus? How did the ringmaster of the Butterfly Circus address that in Will’s life?  (Saturday)
 
-
 ## Video
 
-https://drive.google.com/file/d/1ponCid-G-UCk2ay57KnHuPfv3J1mIa4q/preview
+<div class="video-background">
+  <iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms"
+    src="https://drive.google.com/file/d/1ponCid-G-UCk2ay57KnHuPfv3J1mIa4q/preview"
+    frameborder="0" allowfullscreen />
+</div>
