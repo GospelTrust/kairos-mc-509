@@ -20,4 +20,4 @@ What evidence do you see of performance orientation exhibited in the first circu
 
 ## Video
 
-<iframe src="https://drive.google.com/file/d/1ponCid-G-UCk2ay57KnHuPfv3J1mIa4q/preview" width="640" height="400" allow="autoplay"></iframe>
+https://drive.google.com/file/d/1ponCid-G-UCk2ay57KnHuPfv3J1mIa4q/preview
