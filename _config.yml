@@ -10,7 +10,7 @@ acc:
   date_format: "%b %d, %y"
   short_name: "MC-509"
   color:
-    theme: "#ffc100"
+    theme: "#87ceeb"
     bg: "#222"
   url: "https://mc509.nissi.app"
   categories:
