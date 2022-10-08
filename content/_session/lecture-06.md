@@ -9,9 +9,9 @@
   - Prince & Pauper Test (end of book)
 
 - [Soul Care]
-  - Soul Care - Conclusion
+  - Conclusion
 
-- [Experiencing Father’s Embrace]
+- [Experiencing the Father’s Embrace]
   - Chapter 6: Dealing with Father Issues
   - Chapter 7: Dealing with Mother Issues
 
@@ -25,8 +25,6 @@
 [The Supernatural Ways of Royalty]: https://read.amazon.com/?asin=B072TPGMCM
 [Experiencing the Father’s Embrace]: https://read.amazon.com/?asin=B0051GN8XO
 [Supernatural Freedom from the Captivity of Trauma]: https://read.amazon.com/?asin=B07NWL5Q26
-[TSFIC]: https://read.amazon.com/?asin=B01MYF1WCE
-[DWIYS]: https://read.amazon.com/?asin=B08Y2B6B7C
 
 ## Discussion Question
 

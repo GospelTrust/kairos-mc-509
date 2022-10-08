@@ -1,6 +1,6 @@
 ## Contact
 
-MC 509 | Inner Healing
+Inner Healing | MC509
 :--- | :---
 Credits | 3
 Instructor | Dr. Geoff Wattoff

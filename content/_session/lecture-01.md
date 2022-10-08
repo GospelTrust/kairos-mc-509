@@ -4,7 +4,7 @@
 
 - [Soul Care]
   - Introduction
-  - Gateways to life change
+  - Gateways to Life Change
   - Soul Care Principle 1 &mdash; Identity
 
 [Soul Care]: https://read.amazon.com/?asin=B01G4TEB2I

@@ -1,4 +1,5 @@
-## I. Course Description
+<sub>Section I</sub>
+## Course Description
 
 Inner Healing is an introduction into many of the concepts necessary for inner healing (sanctification).
 It addresses the topics of hearing God’s voice, fundamentals of an inner healing session, forgiveness,
@@ -7,7 +8,8 @@ consists of required readings, videos, quiz questions, online discussion and Zoo
 
 ----
 
-## II. Course Learning Objectives
+<sub>Section II</sub>
+## Course Learning Objectives
 
 A student who successfully complete this course will be able to:
 
@@ -21,15 +23,17 @@ A student who successfully complete this course will be able to:
 
 ----
 
-## III. Academic Integrity / Plagiarism
+<sub>Section III</sub>
+## Academic Integrity / Plagiarism
 
 Doing Your Own Work. Students are required to do their own work. Group study and review sessions are fine, and are encouraged. But when completing an assignment or writing a paper, students must do their own work. Similarly, when taking a quiz or an exam, whether in the classroom or online, students are to do their own work.
 
-### "Closed Book" Quizzes and Exams
+<sub>Closed Book</sub>
+### Quizzes and Exams
 
 If a quiz or exam is "closed book," students are to take it without the aid of their Bible, any books, reference works, or notes. [Professors will designate whether an exam is closed book, or whether students may use their Bibles or notes, etc.] Using notes or other materials when taking a quiz or exam that is "closed book" constitutes cheating.
 
-### Proper Attribution / Plagiarism.
+### Proper Attribution / Plagiarism
 
 For term papers & research papers, it is expected that students will read and use multiple sources. When referring to information that is commonly known, footnotes are not needed. However, if students use detailed information drawn from a specific source, they must give credit to that author; in specific, they must identify the book, author, and page # of the source. If failure to do so is an honest oversight, as a minimum, it will reduce the grade of a paper.
 
@@ -45,7 +49,8 @@ from the university.
 
 ----
 
-## IV. Textbooks
+<sub>Section IV</sub>
+## Textbooks
 
 Instructions for Acquiring Reading Materials
 
@@ -89,7 +94,8 @@ Father’s Love Letter | Barry Adams | [Video 4]
 
 ----
 
-## V. Instructions for Submitting Work Online (for online courses)
+<sub>Section V</sub>
+## Instructions for Submitting Work Online (for online courses)
 
 The course will run for eight (8) weeks. Course content will be divided into units, with one unit to be completed each week. Learning experiences such as readings, audio, and video reviews will be assigned.
 
@@ -113,7 +119,8 @@ In addition to the quizzes students are required post to the discussion board fo
 
 ----
 
-## VI. Zoom Sessions
+<sub>Section VI</sub>
+## Zoom Sessions
 
 There will be weekly Zoom sessions to review the previous week’s material and discuss any questions that you may have. Zoom sessions will be graded on attendance and participation and will account for 10% of the grade. The Zoom sessions will be recorded with the link placed on the website. If you cannot attend the Zoom session you are required to watch the recording and submit your notes from the session. The notes are required to be submitted by end of that course week (Saturday, midnight Pacific time).
 
