@@ -3,8 +3,7 @@
 
 ## Prompt
 
-What is one way that Jesus brought transformation to his disciples? How have you 
-experienced this in your life? (Wednesday)
+What is one way that Jesus brought transformation to his disciples? How have you experienced this in your life? (Wednesday)
 
 ## Essay
 

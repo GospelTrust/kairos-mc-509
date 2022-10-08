@@ -3,7 +3,9 @@
 
 ## Prompt
 
-Write out Kris Vallotton’s definition of humility in your own words. How does this compare to your previous definition? Have you revised your own after reading this?
+Write out [Kris Vallotton’s][The Supernatural Ways of Royalty] definition of humility in your own words. How does this compare to your previous definition? Have you revised your own after reading this?
+
+[The Supernatural Ways of Royalty]: https://read.amazon.com/?asin=B072TPGMCM
 
 ## Essay
 

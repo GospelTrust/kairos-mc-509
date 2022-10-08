@@ -3,7 +3,9 @@
 
 ## Prompt
 
-Do the Spiritual Action Steps in Soul Care for Principle # 3 Overcoming Family Sin Patterns. What insights have you gained to help you and others overcome and stay free from these sin patterns?
+Do the Spiritual Action Steps in [Soul Care] for Principle #3 Overcoming Family Sin Patterns. What insights have you gained to help you and others overcome and stay free from these sin patterns?
+
+[Soul Care]: https://read.amazon.com/?asin=B01G4TEB2I
 
 ## Essay
 

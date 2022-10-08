@@ -3,8 +3,9 @@
 
 ## Prompt
 
-Do the Spiritual Action Steps in Soul Care for Principle #1 Identity
-How important do you think identity is to inner healing? (Saturday)
+Do the Spiritual Action Steps in [Soul Care] for Principle #1 Identity How important do you think identity is to inner healing? (Saturday)
+
+[Soul Care]: https://read.amazon.com/?asin=B01G4TEB2I
 
 ## Essay
 

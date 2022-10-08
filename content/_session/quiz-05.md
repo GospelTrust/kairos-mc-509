@@ -3,7 +3,9 @@
 
 ## Prompt
 
-Do the Spiritual Action Steps in Soul Care for Principle #2 Repentance.  Why is it important to allow God to search your heart?  How does this differ from introspection? Define soul alignment in your own words. Is repentance necessary for “soul alignment?” Why or why not?
+Do the Spiritual Action Steps in [Soul Care] for Principle #2 Repentance.  Why is it important to allow God to search your heart?  How does this differ from introspection? Define soul alignment in your own words. Is repentance necessary for “soul alignment?” Why or why not?
+
+[Soul Care]: https://read.amazon.com/?asin=B01G4TEB2I
 
 ## Essay
 

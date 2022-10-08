@@ -3,8 +3,9 @@
 
 ## Prompt
 
-After watching the video on how to hear God’s voice, share your love letter to 
-God and His response without filtering it. (Saturday)
+After watching the [video][Video 1] on how to hear God’s voice, share your love letter to God and His response without filtering it. (Saturday)
+
+[Video 1]: https://www.youtube.com/watch?v=pkz_Mt0fdxI
 
 ## Prayer
 
