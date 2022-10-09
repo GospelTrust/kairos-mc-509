@@ -22,6 +22,10 @@ acc:
     alt_image: "logo.svg"
     alt_size: 200
     sizes: [ 48, 96, 144, 192, 300, 512, 800, 1024 ]
+  shortcut:
+    name: Syllabus
+    url: https://mc509.nissi.app/session/info-01
+    desc: Class syllabus and contact information
   meta:
     apple_icon: "logo-square-300.png"
     og_image: "logo-square-512.png"
@@ -36,10 +40,12 @@ acc:
       psychology,
       christianity
   footer:
+    - icon: "school"
+      href: "http://kairos.aeu.edu/"
+      text: "Kairos University"
     - icon: "attribution"
       href: "https://acc.askclass.com"
       text: "AskClass Template"
-  # Donot change the below (will figure something out later)
   font_families:
     - Teko
     - Open+Sans
@@ -56,7 +62,7 @@ collections:
 
 defaults:
   - scope:
-      path: ""
+      path: "*.html"
     values:
       layout: "default"
   - scope:
