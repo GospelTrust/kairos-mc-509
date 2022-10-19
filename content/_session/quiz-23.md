@@ -44,5 +44,18 @@ Wounded life                    | Healing, wholeness
 _There is no love in law_       | _Mercy triumps over judgment_
 `Rom 7:5`                       | `James 2:13`
 
-## Revelation
+<details>
+  <summary>Revelation</summary>
+  <p>
+    “You are disinclined to be loved.” The Lord impressed this in the hollows of my essence. I wrestled vainly to understand what these words meant for several days. I know how to love, don’t I? To give, to yield, to endure all things, to count it all as a loss; to let go without resentment, and to receive back again without raising a question — is this not love? The Lord asks, “Have you experienced love?” It is written in Your word, “To know the love of Christ, which passes knowledge” (Eph 3:19). I am versed in the vernacular of the Love language, but I have yet to be embraced by its affection — Love has never illuminated my heart.
+  </p>
 
+  <p>
+    Is not love unconditional? Should it not “Bears all things, believes all things, hopes all things, endures all things” (1Cor 13:7)? Should love expects something in return? The Lord asks me, “What love do you have, son?” Lord, is not my love biblical? Is it not categoric and unconditional? Have I not loved only in the interests of others and have not demanded nor expected anything in return (Rom 13:10)? Because I know the Lord is correct, that leaves me in error (Ps 119:75; Deut 32:4). What I possess is the principle of love — not love itself. The law gives me the definition of love, but it can never communicate the Father’s love to my soul. I have adhered strictly to the doctrine of love but have never been mesmerized by it. I have loved with the letter of the law but have not experienced the power of the Father’s Love (2Cor 3:6; Gal 5:22; 2Tim 1:7).
+  </p>
+
+  <p>
+    Lord, help me to know the love of Christ, not with my intellect but through the expression of Your love impressed in every strand of my essence. Let me not love in the emptiness of my soul but through the abundance and fullness of Your love flow freely and uninhibited by my intellect and senses. Lead me by Your river of life where I will thirst no more (Ps 36:8; 16:11; John 7:38).
+  </p>
+  <samp></samp>
+</details>
