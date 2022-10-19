@@ -25,5 +25,5 @@ In [Supernatural Freedom from the Captivity of Trauma], what are the differences
   <p>
     Blaming circumstances and then trying to sever from them reveals a lack of proper self-awareness. Counterfeit freedom lacks accountability leading to a lack of faith and obedience to the Lord. James 1:23-24 says, “For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass: For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was.” “Freedom is the ability to respond fully to God” (p. 117). The Jews heard Jesus say that He would set them free. Still, they refused to believe. They responded that they “were never in bondage” (John 8:33), true freedom comes when we trust Jesus and come to Him as a child yearning for the love of the Savior.
   </p>
-  <samp>0</samp>
+  <samp>100</samp>
 </details>

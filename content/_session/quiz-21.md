@@ -165,5 +165,5 @@ John Maxwell, Developing the Leader Within You
 the riches of heaven through Christ’s inheritance (Phil 4:19). Still, it was by His death that I receive this inheritance (Heb 9:16-17). First, Everyone needs God’s love, and for me, to be loved is to love. Second, the world needs to be reconciled to God through Christ’s ministry of reconciliation (2Cor 5:18). So, I pray that I have the grace to preach the gospel and endeavor to step outside of myself and follow Paul’s exhortation, “Warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all men” (1Thess 5:14).
   </p>
 
-  <samp>0</samp>
+  <samp>92</samp>
 </details>

@@ -28,5 +28,5 @@ and deliverance? (Wednesday)
     The juxtaposition of the knowledge of being in Christ and abiding in Christ is an abyss that requires the leap of faith. According to the scripture, we understand that if we are in Christ, the Lord is not only our healing and deliverance He is also our righteousness, peace, and joy (Rom 14:17). If we are in Christ, then “as he is, so are we in this world” (1 John 4:17); Jesus needed not to be healed from diseases nor delivered from demons, He is our Healer and our Deliverer (Ex 15:26; Ps 107:20). When the Lord commissioned the disciples, He declared, “All power is given unto me in heaven and in earth” (Mt 28:18) and sent the disciples to minister in His name to heal the sick and cast out devils (Mark 16:17-18). When we understand our position and authority in Christ, we are set free from the lies that bind us to the weakness of this mortality and walk in liberty (1Cor 15:53-54; 2Cor 5:4; Ps 119:45). The question remains, how do I know I’m abiding in Christ? The Lord’s response to our prayers is the affirmation of Christ in us, “If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you” (Jn 15:7).
   </p>
 
-  <samp>0</samp>
+  <samp>100</samp>
 </details>

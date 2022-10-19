@@ -22,5 +22,5 @@ In the chapter on [fathers][Experiencing the Father’s Embrace] there are six t
     When I met my father, the fantastical world my mom composed crashed into my father’s prosaic reality. Though my illusion of hope was shattered, I was already equipped with the fortitude to rewrite a new chapter. The scripture says, “Even the youths shall faint and be weary, and the young men shall utterly fall” (Isaiah 40:30) because our sinful nature made us “like the grass” (Ps 37:2), we will fail. Unknowingly, my father had an impossible stature to fill — and in my eyes, he failed spectacularly. Unlike an earthly father, the Heavenly Father’s “work is perfect, for all his ways are justice. A God of faithfulness and without iniquity, just and upright is he” (Dev 32:4 ESV). If the idea of a good father existed in my imagination, according to Anselm’s ontological argument (Proslogium), then there exists the best father — my Heavenly Father. Instead of my mother’s misconjectures about my earthly father, I trust the Holy Spirit, who confirms my spirit about the eternal goodness of my Heavenly Father (1Cor 2:11; Rom 8:16,27). My father became the necessary contrast I needed to understand and believe in the Lord’s vision of God, “As the Father hath loved me, so have I loved you” (Jn 15:9).
   </p>
 
-  <samp>0</samp>
+  <samp>1000</samp>
 </details>
