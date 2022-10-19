@@ -348,6 +348,9 @@ quiz-23:
   url: 'quiz-23'
   due: 2022-10-19
   points: 100
+  images:
+    - desc: 'Mount Moriah'
+      src: 'https://mj-gallery.com/5f6232c2-65e1-478c-aa3d-66a70c24156d/grid_0.png'
 
 quiz-24:
   segment: 'week-07'
@@ -359,6 +362,9 @@ quiz-24:
   url: 'quiz-24'
   due: 2022-10-19
   points: 100
+  images:
+    - desc: 'The Road to Perdition'
+      src: 'https://mj-gallery.com/db519d13-3d07-44c3-b519-f18f4dba4574/grid_0.png'
 
 quiz-25:
   segment: 'week-07'
