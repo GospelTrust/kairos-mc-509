@@ -21,7 +21,7 @@ _If you sow judgment_           | _If you sow grace_
 `Eph 4:26-27; Gal 5:19-21`      | `Eph 4:29-31; gal 5:22-23`
 Accusatory  thoughts and words  | Edifying thoughts and words
 Criticism                       | Encouragement
-Fount-finding/blaming others    | Seeing own fault first
+Fault-finding/blaming others    | Seeing own fault first
 Dishonor                        | Honor
 Demands rights                  | Yields rights
 Demands justice                 | Pronounces innocence
