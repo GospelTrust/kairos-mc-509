@@ -376,6 +376,9 @@ quiz-25:
   url: 'quiz-25'
   due: 2022-10-22
   points: 100
+  images:
+    - desc: 'Depression'
+      src: 'https://mj-gallery.com/d43eb7c5-f8f4-4d70-aafa-1e27b74cf6ee/grid_0.png'
 
 quiz-26:
   segment: 'week-07'
