@@ -36,5 +36,5 @@ What were the three most significant things you learned from chapters 1 through 
   <p>
     He sent Moses — an old man and an outcast — to deliver his people out of bondage. God knows our pain and uses the “foolish things of the world” to accomplish His mighty work of redemption for those suffering from depression.
   </p>
-  <samp></samp>
+  <samp>100</samp>
 </details>

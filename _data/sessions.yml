@@ -390,6 +390,9 @@ quiz-26:
   url: 'quiz-26'
   due: 2022-10-22
   points: 100
+  images:
+    - desc: 'Valley of Joy'
+    - src: 'https://mj-gallery.com/3ad04c1a-9597-484f-aa7a-d1d273c298cf/grid_0.png'
 
 lecture-08:
   segment: 'week-08'

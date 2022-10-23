@@ -25,5 +25,5 @@ In chapter 10 of [Experiencing the Father’s Embrace], “Abiding on Love,” t
   <p>
     I don’t have the fortitude to overcome this temptation because God has not endowed me with the strength to master sin. “Come unto me, all ye that labour and are heavy laden, and I will give you rest” (Mt 11:28). When you face overwhelming odds that seem too great for you, turn to Jesus. The Lord is the Good Shepherd, who calls out for His sheep, and you will recognize His voice when your heart is quiet, and your ears are tuned toward heaven. “Stand in awe, and sin not: commune with your own heart upon your bed, and be still” (Ps 4:4). The Lord looks for you wherever you hide (Luke 15:4); Jesus has not forgotten nor forsaken you (Heb 13:5). Don’t go further, be still and the Lord will find you and bring you safely home (John 14:3).
   </p>
-  <samp></samp>
+  <samp>100</samp>
 </details>
