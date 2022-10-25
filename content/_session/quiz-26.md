@@ -33,5 +33,5 @@ Having read [Supernatural Freedom from the Captivity of Trauma], it is time to p
   <p>
     My conversion experience played a colossal role in shaping how I pursue the Lord. I was angry and belligerent; this smug misanthropist cared nothing for God. But at a moment of pure divine grace, I was transformed instantly. Though my journey with the Lord has not been linear, fundamentally, my faith in Jesus never regressed because I am still focused on learning to walk. “Walk in the Spirit, and ye shall not fulfil the lust of the flesh” (Gal 5:16). Some might read this passage and focus on the part: “not fulfil the lust of the flesh.” Instead of transfixing on denying the flesh and its evil proclivities, I focus instead on the first part, “Walk in the Spirit.” In the pursuit of Christ, when I walk in the Spirit, I am not elsewhere fulfilling the lust of the flesh. “Let us lay aside every weight, and the sin which doth so easily beset us” (Heb 12:1). Hutchings’ teaching is invaluable in helping Christians identify the sin that weighs them down. That phase is imperative, but we must “forget those things that are behind, and reaching forth unto those things that are before” (Phil 3:13), and “let us run with patience the race that is set before us.”
   </p>
-  <samp></samp>
+  <samp>90</samp>
 </details>

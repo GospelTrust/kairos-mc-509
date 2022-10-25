@@ -402,6 +402,9 @@ lecture-08:
   sequence: 8
   url: 'lecture-08'
   videos: [ "_Ksf9YmseUA" ]
+  images:
+    - desc: 'Field of Dreams'
+      src: 'https://mj-gallery.com/f3d69270-95cd-4896-8475-0bbce2374e12/grid_0.png'
 
 quiz-27:
   segment: 'week-08'
@@ -413,6 +416,9 @@ quiz-27:
   url: 'quiz-27'
   due: 2022-10-26
   points: 100
+  images:
+    - desc: 'Street of Gold'
+      src: 'https://mj-gallery.com/39162e88-e16a-4b0e-9bc3-44febdea4334/grid_0.png'
 
 quiz-28:
   segment: 'week-08'
@@ -424,6 +430,9 @@ quiz-28:
   url: 'quiz-28'
   due: 2022-10-26
   points: 100
+  images:
+    - desc: 'Golden Swamp'
+      src: 'https://mj-gallery.com/c3654857-1bb1-4798-9d9f-2def016c9124/grid_0.png'
 
 quiz-29:
   segment: 'week-08'
@@ -435,4 +444,6 @@ quiz-29:
   url: 'quiz-29'
   due: 2022-10-29
   points: 100
-
+  images:
+    - desc: 'Trees to Everlasting'
+      src: 'https://mj-gallery.com/a5b738f1-5b4b-4495-8433-7f9bf42a67e5/grid_0.png'
