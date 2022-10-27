@@ -57,5 +57,5 @@ _There is no love in law_       | _Mercy triumps over judgment_
   <p>
     Lord, help me to know the love of Christ, not with my intellect but through the expression of Your love impressed in every strand of my essence. Let me not love others through the emptiness of my soul but through the abundance and fullness of Your love, flowing freely and uninhibited by my intellect and senses. Lead me by Your river of life where I will thirst no more (Ps 36:8; 16:11; John 7:38).
   </p>
-  <samp></samp>
+  <samp>100</samp>
 </details>
