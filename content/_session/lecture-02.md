@@ -24,5 +24,5 @@ What evidence do you see of performance orientation exhibited in the first circu
 <div class="video-background">
   <iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms"
     src="https://drive.google.com/file/d/1ponCid-G-UCk2ay57KnHuPfv3J1mIa4q/preview"
-    frameborder="0" allowfullscreen />
+    frameborder="0" allowfullscreen></iframe>
 </div>

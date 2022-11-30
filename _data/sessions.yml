@@ -54,6 +54,9 @@ quiz-01:
   url: 'quiz-01'
   due: 2022-09-06
   points: 100
+  images:
+    - desc: 'Trees and Path'
+      src: 'https://cdn.midjourney.com/bb74fe9a-69c5-4088-8c60-9310e45915e8/grid_0.png'
 
 quiz-02:
   segment: 'week-01'
@@ -65,6 +68,9 @@ quiz-02:
   url: 'quiz-02'
   due: 2022-09-06
   points: 100
+  images:
+    - desc: 'Butterfly'
+      src: 'https://cdn.midjourney.com/e1edc630-011e-4bea-9670-c74e1c6de3a5/grid_0.png'
 
 quiz-03:
   segment: 'week-01'
@@ -76,6 +82,9 @@ quiz-03:
   url: 'quiz-03'
   due: 2022-09-10
   points: 100
+  images:
+    - desc: 'A Lone Tree'
+      src: 'https://cdn.midjourney.com/53b457d6-6bab-45dd-8c12-2b44262fb174/grid_0.png'
 
 quiz-04:
   segment: 'week-01'
@@ -88,6 +97,9 @@ quiz-04:
   due: 2022-09-10
   points: 100
   videos: [ "pkz_Mt0fdxI" ]
+  images:
+    - desc: 'Quill and Pen'
+      src: 'https://cdn.midjourney.com/c67ffdcd-ba05-49e5-ba13-385bd0b490d4/grid_0.png'
 
 lecture-02:
   segment: 'week-02'
@@ -108,6 +120,9 @@ quiz-05:
   url: 'quiz-05'
   due: 2022-09-13
   points: 100
+  images:
+    - desc: 'Autumn Birch Trees'
+      src: 'https://cdn.midjourney.com/c3654857-1bb1-4798-9d9f-2def016c9124/grid_0.png'
 
 quiz-06:
   segment: 'week-02'
@@ -119,6 +134,9 @@ quiz-06:
   url: 'quiz-06'
   due: 2022-09-13
   points: 100
+  images:
+    - desc: 'Mountain'
+      src: 'https://cdn.midjourney.com/b264a01a-9adb-4cb3-96da-1369861315bc/grid_0.png'
 
 quiz-07:
   segment: 'week-02'
@@ -130,6 +148,9 @@ quiz-07:
   url: 'quiz-07'
   due: 2022-09-17
   points: 100
+  images:
+    - desc: 'Three Figures'
+      src: 'https://cdn.midjourney.com/5be9e22c-19ce-4d75-bdc0-744418462dd4/grid_0.png'
 
 quiz-08:
   segment: 'week-02'
@@ -141,6 +162,9 @@ quiz-08:
   url: 'quiz-08'
   due: 2022-09-17
   points: 100
+  images:
+    - desc: 'Dark Patterns'
+      src: 'https://cdn.midjourney.com/9a85bec6-99a3-442b-9fe9-8b0ccd37d310/grid_0.png'
 
 lecture-03:
   segment: 'week-03'
@@ -160,6 +184,9 @@ quiz-09:
   url: 'quiz-09'
   due: 2022-09-21
   points: 100
+  images:
+    - desc: 'Moon in Autumn Night Sky'
+      src: 'https://cdn.midjourney.com/496a81ac-f171-4ce6-9e92-d94b7aabd47a/grid_0.png'
 
 quiz-10:
   segment: 'week-03'
@@ -171,6 +198,9 @@ quiz-10:
   url: 'quiz-10'
   due: 2022-09-21
   points: 100
+  images:
+    - desc: 'Two Friends'
+      src: 'https://cdn.midjourney.com/dc473154-0c36-4fe2-9be3-8f7f5d9a3198/grid_0.png'
 
 quiz-11:
   segment: 'week-03'
@@ -182,6 +212,9 @@ quiz-11:
   url: 'quiz-11'
   due: 2022-09-24
   points: 100
+  images:
+    - desc: 'Two Trees'
+      src: 'https://cdn.midjourney.com/a5b738f1-5b4b-4495-8433-7f9bf42a67e5/grid_0.png'
 
 lecture-04:
   segment: 'week-04'
@@ -201,6 +234,9 @@ quiz-12:
   url: 'quiz-12'
   due: 2022-09-28
   points: 100
+  images:
+    - desc: 'Sheeps and One'
+      src: 'https://cdn.midjourney.com/0ca41ff9-c442-43cf-a0d7-3c26f5e47cfd/grid_0.png'
 
 quiz-13:
   segment: 'week-04'
@@ -212,6 +248,9 @@ quiz-13:
   url: 'quiz-13'
   due: 2022-09-28
   points: 100
+  images:
+    - desc: 'Patterns'
+      src: 'https://cdn.midjourney.com/3d562424-78d3-4de8-8464-9d89cd90316c/grid_0.png'
 
 quiz-14:
   segment: 'week-04'
@@ -223,6 +262,9 @@ quiz-14:
   url: 'quiz-14'
   due: 2022-10-01
   points: 100
+  images:
+    - desc: 'Bridge to Nowhere'
+      src: 'https://cdn.midjourney.com/0611914d-fb4e-4794-ae11-8c120578f464/grid_0.png'
 
 lecture-05:
   segment: 'week-05'
@@ -242,6 +284,9 @@ quiz-15:
   url: 'quiz-15'
   due: 2022-10-05
   points: 100
+  images:
+    - desc: 'Room with a Balloon'
+      src: 'https://cdn.midjourney.com/5968630a-0cfb-4293-a5e6-d5eef9add013/grid_0.png'
 
 quiz-16:
   segment: 'week-05'
@@ -253,6 +298,9 @@ quiz-16:
   url: 'quiz-16'
   due: 2022-10-05
   points: 100
+  images:
+    - desc: 'Butterfly'
+      src: 'https://cdn.midjourney.com/e6c8894a-3d8f-47e0-aea3-65dff96402f4/grid_0.png'
 
 quiz-17:
   segment: 'week-05'
@@ -264,6 +312,9 @@ quiz-17:
   url: 'quiz-17'
   due: 2022-10-08
   points: 100
+  images:
+    - desc: 'Waterfall'
+      src: 'https://cdn.midjourney.com/424e299e-54be-4033-8e8d-452386618665/grid_0.png'
 
 quiz-18:
   segment: 'week-05'
@@ -275,6 +326,9 @@ quiz-18:
   url: 'quiz-18'
   due: 2022-10-08
   points: 100
+  images:
+    - desc: 'Alone'
+      src: 'https://cdn.midjourney.com/a6bb7768-67da-4471-9e96-3a4b2c77b7d8/grid_0.png'
 
 lecture-06:
   segment: 'week-06'
@@ -295,6 +349,9 @@ quiz-19:
   url: 'quiz-19'
   due: 2022-10-12
   points: 100
+  images:
+    - desc: 'People'
+      src: 'https://cdn.midjourney.com/e190d0ad-41ec-46f2-baf1-d1adc37d76b6/grid_0.png'
 
 quiz-20:
   segment: 'week-06'
@@ -307,6 +364,9 @@ quiz-20:
   due: 2022-10-12
   points: 100
   videos: [ "tlTvg66sGuA", "Tz04ajj6hbI", "8MqDchI8eiU" ]
+  images:
+    - desc: 'Streams'
+      src: 'https://cdn.midjourney.com/75648a2e-ed95-4c78-9f5c-cd53adb5eea5/grid_0.png'
 
 quiz-21:
   segment: 'week-06'
@@ -318,6 +378,9 @@ quiz-21:
   url: 'quiz-21'
   due: 2022-10-15
   points: 100
+  images:
+    - desc: 'Open Field'
+      src: 'https://cdn.midjourney.com/14e0b29c-ebc8-4f20-909a-7a16e5234c35/grid_0.png'
 
 quiz-22:
   segment: 'week-06'
@@ -329,6 +392,9 @@ quiz-22:
   url: 'quiz-22'
   due: 2022-10-15
   points: 100
+  images:
+    - desc: 'Road to Eternity'
+      src: 'https://cdn.midjourney.com/54559e2c-49a7-4b3c-bd59-ded1e04ffa2f/grid_0.png'
 
 lecture-07:
   segment: 'week-07'
